@@ -1,0 +1,2 @@
+# NetCore
+AspDotNet_NetCore
